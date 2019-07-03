@@ -1,3 +1,5 @@
+image:https://img.shields.io/travis/rauljose32/sistemaBancarioTDD.svg[Travis (.org)]
+
 = Projeto de Sistema Bancário para Inclusão de Testes Unitários
 
 Este projeto fornece um conjunto de classes base para que sejam implementados testes unitários.
